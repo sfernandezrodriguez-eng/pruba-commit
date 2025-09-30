@@ -3,7 +3,7 @@
 
 Existen distintos tipos de videojuegos bastante diversos entre ellos.
 
-un ejemplo de un juego puede ser
+Un ejemplo de un juego puede ser:
 
 
 ![ultrakill](https://cdn-images.dzcdn.net/images/cover/2c6ee010818093931e0022274e20995c/0x1900-000000-80-0-0.jpg)
