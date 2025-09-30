@@ -1,8 +1,7 @@
 # VIDEOJUEGOS
-### Buenas hoy venga a hablarte de lod videojuegos aquel medio que te permite contar historias de una manera más interactiva y en la que los usuarios puedan enteder mejor a tus personajes y tomar decisones por ellos.
+### Buenas, hoy venga a hablarte de los videojuegos, aquel medio que te permite contar historias de una manera más interactiva y en la que los usuarios puedan enteder mejor a tus personajes y tomar decisones por ellos.
 
 Existen distintos tipos de videojuegos bastante diversos entre ellos.
-
 Un ejemplo de un juego puede ser:
 
 
