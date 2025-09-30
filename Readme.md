@@ -7,7 +7,7 @@ Un ejemplo de un juego puede ser:
 
 ![ultrakill](https://cdn-images.dzcdn.net/images/cover/2c6ee010818093931e0022274e20995c/0x1900-000000-80-0-0.jpg)
 
-Esto es ultrakill un shooter frenético donde puedes pasarte niveles en menos de un minuto dependiendo de tu nivel de habilidades contra mejor jugador seas más rapido y de mejor forma te podras pasar los niveles.
+Esto es ultrakill un shooter frenético donde puedes pasarte niveles en menos de un minuto dependiendo de tu nivel de habilidades, contra mejor jugador seas más rapido y de mejor forma te podras pasar los niveles.
 
 Esto es todo por hoy otro dia lo continuare.
 
