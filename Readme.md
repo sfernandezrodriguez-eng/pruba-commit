@@ -10,3 +10,6 @@ Un ejemplo de un juego puede ser:
 Esto es ultrakill un shooter frenético donde puedes pasarte niveles en menos de un minuto dependiendo de tu nivel de habilidades contra mejor jugador seas más rapido y de mejor forma te podras pasar los niveles.
 
 Esto es todo por hoy otro dia lo contiare.
+
+:clown_face: 
+
