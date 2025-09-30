@@ -1,5 +1,11 @@
-# HOLA
-## Como estás?
-### Bienvenido a COD, una asignatura donde aprenderas sobre git y todo lo que conlleva.
-Github es una plataforma donde podrás subir tus commits los cuales son indicaciones de nuestros proyectos.
-Para más comprate mi libro.
+# VIDEOJUEGOS
+### Buenas hoy venga a hablarte de lod videojuegos aquel medio que te permite contar historias de una manera más interactiva y en la que los usuarios puedan enteder mejor a tus personajes y tomar decisones por ellos.
+
+Existen distintos tipos de videojuegos bastante diversos entre ellos.
+
+un ejemplo de un juego puede ser
+
+
+![ultrakill](https://cdn-images.dzcdn.net/images/cover/2c6ee010818093931e0022274e20995c/0x1900-000000-80-0-0.jpg)
+
+Esto es ultrakill un shooter frenetico donde puedes pasarte niveles en menos de un minuto dependiendo de tu nivel de habilidades contra mejor jugador seas más rapido y de mejor forma te podras pasar los niveles.
