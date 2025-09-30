@@ -1,4 +1,4 @@
-# VIDEOJUEGOS
+# <font color='red'>VIDEOJUEGOS</font>
 ### Buenas, hoy venga a hablarte de los videojuegos, aquel medio que te permite contar historias de una manera más interactiva y en la que los usuarios puedan enteder mejor a tus personajes y tomar decisones por ellos.
 
 Existen distintos tipos de videojuegos bastante diversos entre ellos.
